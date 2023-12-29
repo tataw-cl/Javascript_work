@@ -1,1 +1,3 @@
-# Javascript_work
+# Javascript Journey
+##### The primary goal of this repository is  to keep a track of my javascript journey as I transcend from a noop tp a pro of sorts...
+All contributions and commits will be recorded here
